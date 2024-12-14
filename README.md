@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PortyChat - macOS串口通信工具
 
 ## 项目概述
@@ -137,3 +138,7 @@ PortyChat 是一个简洁易用的 macOS 串口通信工具，主要用于串口
 
 ## 许可证
 MIT License
+=======
+# PortyChat
+串口通信工具
+>>>>>>> 5e734ab97a88d121e2ff73f8a8f081132e961805
